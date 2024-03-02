@@ -1,0 +1,165 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-hbV {
+  box-sizing: border-box;
+  padding-right: 3.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.desktop-1-hbV .auto-group-wzmv-H3u {
+  margin-right: 7.3124rem;
+  width: 97.6876rem;
+  height: 117.8861rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  border-radius: 24.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-hbV .auto-group-wzmv-H3u .rectangle-2-XcT {
+  width: 63.3rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 6.7rem;
+  background-color: rgba(178, 121, 60, 0.9900000095);
+  border-radius: 4rem;
+}
+.desktop-1-hbV .auto-group-wzmv-H3u .woodmaker-yDZ {
+  width: 45.3rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 7.8rem;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.9300000072);
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 {
+  margin-top: 2.6rem;
+  width: 57.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-anas-qf5 {
+  box-sizing: border-box;
+  padding: 0rem 1.8rem 1.3rem 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-anas-qf5 .auto-group-1m5z-MNX {
+  margin: 0rem 11.8rem 10.6rem 10.6rem;
+  width: calc(100% - 22.4rem);
+  height: 8.4rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(118, 73, 25, 0.9900000095);
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-anas-qf5 .email-kfZ {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(0, 0, 0, 0.2700000107);
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .line-2-sVH {
+  margin-bottom: 5.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .password-QEK {
+  margin: 0rem 0rem 1.5rem 1.8rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(0, 0, 0, 0.2700000107);
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .line-3-iF1 {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .forgot-password-3o5 {
+  margin-left: 0.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #284fda;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-thtk-NaT {
+  box-sizing: border-box;
+  padding: 3.8rem 17rem 0.9rem 13.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.1rem #000000;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-thtk-NaT .auto-group-hgyd-HSX {
+  margin: 0rem 5rem 3.8rem 5rem;
+  width: calc(100% - 10rem);
+  height: 7.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(178, 121, 60, 0.9900000095);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-hbV .auto-group-vgzu-jc3 .auto-group-thtk-NaT .create-account-Lfh {
+  margin-bottom: 0.8rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

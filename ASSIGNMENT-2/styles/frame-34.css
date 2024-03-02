@@ -1,0 +1,857 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.frame-34-8YF {
+  width: 100%;
+  height: 545rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.frame-34-8YF .group-31-h5Z {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M {
+  margin-bottom: 1.8rem;
+  box-sizing: border-box;
+  padding: 2.8rem 7.5rem 2.8rem 7.1rem;
+  width: 100%;
+  height: 90.1rem;
+  display: flex;
+  align-items: flex-start;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-nsab-rcf {
+  margin-right: 30.5rem;
+  width: 59.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-nsab-rcf .auto-group-enpz-PsV {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  height: 13.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-nsab-rcf .auto-group-enpz-PsV .rectangle-2-95y {
+  width: 59.3rem;
+  height: 13.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: rgba(178, 121, 60, 0.9900000095);
+  border-radius: 4rem;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-nsab-rcf .auto-group-enpz-PsV .woodmaker-2fZ {
+  width: 45.3rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.9300000072);
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-nsab-rcf .frame-38-H5h {
+  margin: 0rem 18.6rem 0rem 30.7rem;
+  width: calc(100% - 49.3rem);
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-k7wd-Bwm {
+  margin-right: 4rem;
+  width: 17.8rem;
+  height: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #71cbdf;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .auto-group-3l1m-a9M .auto-group-lhlk-eqM {
+  width: 17.8rem;
+  height: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR {
+  margin: 0rem 10.5rem 0rem 11.4rem;
+  width: calc(100% - 21.9rem);
+  height: 8.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-5-36o {
+  margin-right: 11.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-5-36o .auto-group-xu6o-Bio {
+  margin-right: 0.1rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-5-36o .text-Wm5 {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-5-36o .text-Wm5 .high-quality-FTm {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-5-36o .text-Wm5 .crafted-from-top-materials-mh1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-3-HvF {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 1.6rem 2.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-3-HvF .guarantee-RWf {
+  margin: 0rem 2.4rem 0.1rem 0rem;
+  width: 4rem;
+  height: 3.875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-3-HvF .text-Z75 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-3-HvF .text-Z75 .warrany-protection-Wo1 {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-3-HvF .text-Z75 .over-2-years-Eyu {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-2-xuu {
+  margin-right: 10.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-2-xuu .auto-group-5919-83h {
+  margin-right: 0.3rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-2-xuu .text-f3d {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-2-xuu .text-f3d .free-shipping-cDm {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-2-xuu .text-f3d .order-over-150--LQf {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-4-egF {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-4-egF .auto-group-dqef-Cxf {
+  margin-right: 0.1rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-4-egF .text-YWj {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-4-egF .text-YWj .support-h8j {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .home-2dd .feature-iKR .group-4-egF .text-YWj .dedicated-support-Dcs {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq {
+  box-sizing: border-box;
+  padding: 5rem 3.7rem 10.4rem 5.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-jhnw-GLF {
+  margin-bottom: 6rem;
+  width: 54.3rem;
+  height: 11.4rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.9300000072);
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(178, 121, 60, 0.9900000095);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh {
+  margin: 0rem 0rem 4.6rem 1.1rem;
+  width: calc(100% - 1.1rem);
+  height: 11.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-bvb1-ebh {
+  width: 36.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-bvb1-ebh .rectangle-7-zvT {
+  width: 36.7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  border-radius: 4rem;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-bvb1-ebh .all-Hef {
+  width: 4.8rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 16rem;
+  top: 0.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-bvb1-ebh .frame-1-nbR {
+  width: 3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 2.5rem;
+  overflow: hidden;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-sz55-hiP {
+  box-sizing: border-box;
+  padding-left: 12.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-sz55-hiP .auto-group-pfov-qZh {
+  margin-right: 11.5rem;
+  width: 36.7rem;
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8.png');
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-wref-vfh .auto-group-sz55-hiP .auto-group-j2tw-Wvj {
+  width: 36.7rem;
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(255, 255, 255, 0.9300000072);
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(74, 93, 195, 0.9399999976);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-1fmh-MwM {
+  margin: 0rem 3.9rem 1.9rem 2.9rem;
+  width: calc(100% - 6.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-1fmh-MwM .chair-4-1-VXm {
+  margin-right: 11.1555rem;
+  width: 58.8445rem;
+  height: 44.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-1fmh-MwM .char-2-1-pK9 {
+  width: 58.2rem;
+  height: 44.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.4rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw {
+  margin: 0rem 10.7rem 0rem 4.1rem;
+  width: calc(100% - 14.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .casa-andrea-milano-mid-century-modern-accent-sherpa-fabric-chair-10000--HTd {
+  margin-right: 20.2rem;
+  max-width: 50.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .casa-andrea-milano-mid-century-modern-accent-sherpa-fabric-chair-10000--HTd .casa-andrea-milano-mid-century-modern-accent-sherpa-fabric-chair-10000--HTd-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .casa-andrea-milano-mid-century-modern-accent-sherpa-fabric-chair-10000--HTd .casa-andrea-milano-mid-century-modern-accent-sherpa-fabric-chair-10000--HTd-sub-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .dewhut-oversized-pumpkin-couch-accent-chair-modern-comfy-velvet-upholstered-barrel-chair-13000--Yns {
+  max-width: 49.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .dewhut-oversized-pumpkin-couch-accent-chair-modern-comfy-velvet-upholstered-barrel-chair-13000--Yns .dewhut-oversized-pumpkin-couch-accent-chair-modern-comfy-velvet-upholstered-barrel-chair-13000--Yns-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-3-8jq .auto-group-5bqz-Ykw .dewhut-oversized-pumpkin-couch-accent-chair-modern-comfy-velvet-upholstered-barrel-chair-13000--Yns .dewhut-oversized-pumpkin-couch-accent-chair-modern-comfy-velvet-upholstered-barrel-chair-13000--Yns-sub-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 {
+  box-sizing: border-box;
+  padding: 7.6rem 6.756rem 10.4rem 9.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .line-9-ZrP {
+  margin: 0rem 2.644rem 9.2rem 1.9rem;
+  width: calc(100% - 4.5441rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d {
+  margin-bottom: 6.7rem;
+  width: 100%;
+  height: 68.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ {
+  margin-right: 2.056rem;
+  width: 58.844rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .auto-group-pa9u-iMu {
+  margin-bottom: 2.9092rem;
+  width: 100%;
+  height: 41.1908rem;
+  position: relative;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .auto-group-pa9u-iMu .frame-1-fH9 {
+  width: 3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 8rem;
+  overflow: hidden;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .auto-group-pa9u-iMu .sofa-4-2-o8T {
+  width: 58.844rem;
+  height: 41.1908rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .christopher-knight-home-amaia-modern-velvet-7000--L8P {
+  margin-left: 1.9rem;
+  max-width: 35.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .christopher-knight-home-amaia-modern-velvet-7000--L8P .christopher-knight-home-amaia-modern-velvet-7000--L8P-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .auto-group-yqgx-mhZ .christopher-knight-home-amaia-modern-velvet-7000--L8P .christopher-knight-home-amaia-modern-velvet-7000--L8P-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-bmqb-2V5 .sofa-TcK {
+  margin-top: 6.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP {
+  width: 58.844rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .auto-group-eeas-x3H {
+  margin-bottom: 3.267rem;
+  width: 100%;
+  height: 44.133rem;
+  position: relative;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .auto-group-eeas-x3H .chair-uDR {
+  width: 9.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 41.2rem;
+  top: 6.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(255, 255, 255, 0.9300000072);
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .auto-group-eeas-x3H .sofa-1-1-QAB {
+  width: 58.844rem;
+  height: 44.133rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7 {
+  margin-left: 3.7rem;
+  max-width: 37rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7 .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7 .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7-sub-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .auto-group-86fq-65d .auto-group-vhqj-oAP .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7 .zinus-josh-loveseat-sofa-easy-tool-free-assembly-beige-15000--wA7-sub-2 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-4-3d9 .line-10-rZu {
+  margin: 0rem 2.644rem 0rem 1.9rem;
+  width: calc(100% - 4.5441rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK {
+  box-sizing: border-box;
+  padding: 7.9rem 5.856rem 9.3rem 8.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .line-7-H9R {
+  margin: 0rem 4.744rem 9rem 2rem;
+  width: calc(100% - 6.7441rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ndr1-bR1 {
+  margin-bottom: 4.367rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ndr1-bR1 .sofa-4-1-wjm {
+  margin: 0rem 11.856rem 0.042rem 0rem;
+  width: 58.844rem;
+  height: 41.1908rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ndr1-bR1 .sofa-1-1-rbq {
+  width: 58.844rem;
+  height: 44.133rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 {
+  margin: 0rem 6.644rem 4.7rem 3.4rem;
+  width: calc(100% - 10.044rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .vonanda-faux-leather-sofa-couchelegant-cognac-tan-12000--WgP {
+  margin-right: 25.3rem;
+  max-width: 44.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .vonanda-faux-leather-sofa-couchelegant-cognac-tan-12000--WgP .vonanda-faux-leather-sofa-couchelegant-cognac-tan-12000--WgP-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .vonanda-faux-leather-sofa-couchelegant-cognac-tan-12000--WgP .vonanda-faux-leather-sofa-couchelegant-cognac-tan-12000--WgP-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .acme-colla-velvet-upholstered-accent-chair-in-gray-and-gold-13500--rNs {
+  margin-bottom: 1.9rem;
+  max-width: 49.9rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .acme-colla-velvet-upholstered-accent-chair-in-gray-and-gold-13500--rNs .acme-colla-velvet-upholstered-accent-chair-in-gray-and-gold-13500--rNs-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .auto-group-ga5m-Bu1 .acme-colla-velvet-upholstered-accent-chair-in-gray-and-gold-13500--rNs .acme-colla-velvet-upholstered-accent-chair-in-gray-and-gold-13500--rNs-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-5-ZUK .line-8-AgP {
+  margin: 0rem 2.444rem 0rem 4.3rem;
+  width: calc(100% - 6.7441rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq {
+  box-sizing: border-box;
+  padding: 7.9rem 6.756rem 8.1rem 10.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .line-7-CNB {
+  margin: 0rem 3.844rem 9.7rem 2.4rem;
+  width: calc(100% - 6.2441rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-zqeb-vZ5 {
+  margin-bottom: 3.667rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-zqeb-vZ5 .sofa-1-2-5B5 {
+  margin-right: 8.956rem;
+  width: 58.844rem;
+  height: 44.133rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-zqeb-vZ5 .sofa-4-1-Bju {
+  margin-bottom: 0.0422rem;
+  width: 58.844rem;
+  height: 41.1908rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH {
+  margin: 0rem 1.544rem 2.6rem 1.4rem;
+  width: calc(100% - 2.9441rem);
+  height: 37.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu {
+  width: 41rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu .the-briston-premium-couch-with-suede-upholstery-is-a-luxurious-addition-to-any-living-room-25000--dbu-sub-2 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .zeus-3-seater-fabric-premium-sofa-for-living-room-8000--uxj {
+  width: 48.3rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 1.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .zeus-3-seater-fabric-premium-sofa-for-living-room-8000--uxj .zeus-3-seater-fabric-premium-sofa-for-living-room-8000--uxj-sub-0 {
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .zeus-3-seater-fabric-premium-sofa-for-living-room-8000--uxj .zeus-3-seater-fabric-premium-sofa-for-living-room-8000--uxj-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .auto-group-sjxm-WXH .line-8-FfD {
+  width: 122.7999rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 27.5rem;
+  background-color: #000000;
+}
+.frame-34-8YF .group-31-h5Z .desktop-9-gPq .conditions-of-use-sale-privacy-notice-interest-based-ads-1996-2024-woodmakercom-inc-or-its-affiliates-PFd {
+  margin-left: 0.856rem;
+  max-width: 97.5rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
